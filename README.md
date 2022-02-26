@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Takashii09
+- 👋 Hi, I’m @Paren76
 - 👀 I’m interested in cyber security, software development, web development and AI
 - 🌱 I’m currently learning/working with Python, HTML, CSS, C#, C++, JS,
 - 📫 How to reach me on Discord: JCL | Takashii#4424
